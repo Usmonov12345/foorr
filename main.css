@@ -1,0 +1,31 @@
+.aslo{
+    background-color: black;
+    border: 10px solid rgb(236, 22, 22);
+    padding: 30px;
+
+}
+
+.car{
+    padding: 10px;
+    background-color: rgb(68, 137, 197);
+    border: 10px solid rgb(59, 153, 102);
+    text-align: center;
+}
+.c{
+    background-color: aqua;
+    border: 10px solid rgb(26, 20, 143);
+    text-align: center;
+    padding: 10px  ;
+    border: 10px solid gray;
+}
+.l{
+    background-color:red;
+    text-align: center;
+    border: 10px solid rgb(183, 163, 8);
+}
+.c{
+    background-color: rgb(0, 255, 183);
+    text-align: center;
+    border: 10px solid rgb(102, 3, 57);
+    padding: 10px  ;
+}
